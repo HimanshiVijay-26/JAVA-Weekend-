@@ -3,7 +3,7 @@ package pack1;
 public class ArrayDiscussion
 {
 
-System.out.println("GIT Pull Line");
+System.out.println("GIT Pull line");
 	
 	public static void main(String[] args)
 	{
