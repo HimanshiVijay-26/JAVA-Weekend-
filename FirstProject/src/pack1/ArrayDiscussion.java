@@ -2,11 +2,10 @@ package pack1;
 
 public class ArrayDiscussion
 {
-
-System.out.println("GIT Pull line");
 	
-	public static void main(String[] args)
-	{
+public static void main(String[] args)
+{
+System.out.println("GIT Pull line");
 	
 	int a = 10;
 	
